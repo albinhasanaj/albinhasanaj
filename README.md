@@ -2,7 +2,7 @@
 
 🚀 **Developer | AI Enthusiast | Entrepreneur**
 
-I'm an 18-year-old developer from Sweden, passionate about web development, software development and AI. I love working on challenging projects, exploring new technologies, and constantly pushing my skills forward.
+I'm an 18-year-old developer from Sweden. I'm passionate about web development, software development, and AI. I love working on challenging projects, exploring new technologies, and constantly pushing my skills forward.
 
 ---
 
@@ -43,17 +43,17 @@ I'm an 18-year-old developer from Sweden, passionate about web development, soft
 
 ## 🏆 Achievements & Projects
 
-- 🔹 **Web Development Business (Tachyon)** - Building modern websites and software solutions.
-- 🔹 **AI Trading Bot** - Developed a model analyzing crypto market trends.
-- 🔹 **3D Game Development** - Lead developer of a survival horror game in Godot.
+- 🔹 **Web Development Business (Tachyon)** - Building modern SaaS & Software solutions.
+- 🔹 **AI Trading Bot** - Developed an ecosystem and a model for analyzing crypto market trends.
+- 🔹 **3D Game Development** - Lead developer of a survival horror game in Godot (school project).
 - 🔹 **Tokamak** - A social platform for exploring and sharing images scraped from prnt.sc, featuring deep learning filtering, dynamic image fetching, and interactive user engagement.
 - 🔹 **NexTalk** - A real-time chat application using Next.js, WebSockets, Prisma ORM, and GitHub OAuth authentication.
 
 ---
 
-🎯 **Currently Learning:** Advanced algorithms, reinforcement learning, and backend optimization.
+🎯 **Currently Learning:** Advanced algorithms, advanced database handling, and backend optimization.
 
-💡 **Fun Fact:** I started coding at 17, and within a year, I was leading multiple projects, working professionally, and launching my own business!
+💡 **Fun Fact:** I started coding at 17, and within a year, I led multiple projects, worked professionally, and launched my own business!
 
 ---
 
