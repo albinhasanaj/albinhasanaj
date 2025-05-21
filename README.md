@@ -40,14 +40,13 @@ I'm an 18-year-old developer from Sweden. I specialize in full-stack web develop
 
 ## 🏆 Projects & Products
 
-### 🔹 **Tachyon**
+### 🔹 **[Tachyon](https://tachyonlabs.se/)**
 
 A modern software agency and product lab. Under Tachyon, I build and scale high-performance tools and SaaS platforms for real-world problems—from advanced AI systems to client-ready digital solutions.
 
-### 🔹 **Hirena**
+### 🔹 **[Hirena](https://hirena.se)**
 
 > *AI-powered job search engine*
-> [Visit Hirena →](https://hirena.se)
 
 A fully custom-built search platform for students and young professionals that uses semantic matching to pair CVs and personal letters with the best-fitting jobs.
 
