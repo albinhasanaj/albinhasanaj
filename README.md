@@ -2,7 +2,7 @@
 
 🚀 **Developer | AI Enthusiast | Entrepreneur**
 
-I'm an 18-year-old developer from Sweden. I'm passionate about web development, software development, and AI. I love working on challenging projects, exploring new technologies, and constantly pushing my skills forward.
+I'm an 18-year-old developer from Sweden. I specialize in full-stack web development, AI-powered systems, and scalable SaaS solutions. I thrive on challenging technical problems, efficient system design, and turning ideas into fully working products—fast.
 
 ---
 
@@ -16,45 +16,75 @@ I'm an 18-year-old developer from Sweden. I'm passionate about web development, 
 
 ## 💻 Tech Stack & Tools
 
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
-  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+<p align="left">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/pgvector-005C99?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/BullMQ-EF4444?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Embeddings-FF5F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
+---
+
+## 🏆 Projects & Products
+
+### 🔹 **Tachyon**
+
+A modern software agency and product lab. Under Tachyon, I build and scale high-performance tools and SaaS platforms for real-world problems—from advanced AI systems to client-ready digital solutions.
+
+### 🔹 **Hirena**
+
+> *AI-powered job search engine*
+
+A fully custom-built search platform for students and young professionals that uses semantic matching to pair CVs and personal letters with the best-fitting jobs.
+
+* Built with: **Next.js**, **Node.js**, **PostgreSQL + pgvector**, **Docker**
+* Uses sentence embeddings and Reciprocal Rank Fusion (RRF) for ranking jobs.
+* Integrates with job APIs (Platsbanken/JobTech), supports PDF/DOCX uploads, and features a recruiter-side dashboard for ranking top applicants.
+
+### 🔹 **Tachyon Signal Engine**
+
+> *Universal AI lead intelligence platform*
+
+A modular lead discovery engine for agencies, law firms, and SMBs.
+
+* Accepts plain-English prompts like “restaurants in Stockholm without websites.”
+* Recursively searches the web via DuckDuckGo, Google Maps, and APIs.
+* Uses plugins + Gemini/OpenAI to select strategies, extract and classify content, and generate structured, scored leads.
+* Designed for GDPR-safe, explainable B2B lead generation with real-time dashboards and signal scoring.
+
+### 🔹 **Crypto Market Ecosystem**
+
+> *Personal AI research project into crypto time-series forecasting and automation*
+
+* Engineered full backend for OHLC + sentiment ingestion, transformation, and model training.
+* Integrated deep learning, reinforcement learning, and cron-based pipelines for auto-trading simulation.
+* Built API + Express server to serve vectorized time-series data for research and live trading.
+
+### 🔹 **Tokamak**
+
+> *Social platform for exploring obscure internet content*
+
+A fun side project where users can explore and engage with images scraped from `prnt.sc`, filtered using TensorFlow to remove unwanted content.
+
+* Includes like/comment/share features.
+* Built with: **Next.js**, **Tailwind CSS**, **Clerk**, **TensorFlow**, **Python backend**
 
 ---
 
-## 🏆 Achievements & Projects
+## 📢 Let's Connect
 
-- 🔹 **Web Development Business (Tachyon)** - Building modern SaaS & Software solutions.
-- 🔹 **AI Trading Bot** - Developed an ecosystem and a model for analyzing crypto market trends.
-- 🔹 **3D Game Development** - Lead developer of a survival horror game in Godot (school project).
-- 🔹 **Tokamak** - A social platform for exploring and sharing images scraped from prnt.sc, featuring deep learning filtering, dynamic image fetching, and interactive user engagement.
-- 🔹 **NexTalk** - A real-time chat application using Next.js, WebSockets, Prisma ORM, and GitHub OAuth authentication.
-
----
-
-🎯 **Currently Learning:** Advanced algorithms, advanced database handling, and backend optimization.
-
-💡 **Fun Fact:** I started coding at 17, and within a year, I led multiple projects, worked professionally, and launched my own business!
-
----
-
-Thanks for stopping by! ⭐ Feel free to connect and collaborate!
+* 📧 **Email**: [albin@tachyonlabs.se](mailto:albin@tachyonlabs.se)
+* 💼 **LinkedIn**: [linkedin.com/in/albin-hasanaj](https://www.linkedin.com/in/albin-hasanaj/)
