@@ -47,6 +47,7 @@ A modern software agency and product lab. Under Tachyon, I build and scale high-
 ### 🔹 **Hirena**
 
 > *AI-powered job search engine*
+> [Visit Hirena →](https://hirena.se)
 
 A fully custom-built search platform for students and young professionals that uses semantic matching to pair CVs and personal letters with the best-fitting jobs.
 
@@ -80,7 +81,7 @@ A modular lead discovery engine for agencies, law firms, and SMBs.
 A fun side project where users can explore and engage with images scraped from `prnt.sc`, filtered using TensorFlow to remove unwanted content.
 
 * Includes like/comment/share features.
-* Built with: **Next.js**, **Tailwind CSS**, **Clerk**, **TensorFlow**, **Python backend**
+* Built with: **Next.js**, **Tailwind CSS**, **Clerk**, **TensorFlow**, **Python**
 
 ---
 
